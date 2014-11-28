@@ -16,5 +16,6 @@ namespace TestUnifiedAll
 			// you can specify it here.
 			UIApplication.Main (args, null, "AppDelegate");
 		}
-	}
+	}//Hello AndroidApp
+	//This is my name in alpha
 }
