@@ -1,0 +1,13 @@
+﻿```xml
+<Manifest>
+  <AgentType>iOSUnified_UIKit</AgentType>
+</Manifest>
+```
+```csharp
+// Sketch your next great idea!
+
+using UIKit;
+using Foundation;
+using CoreGraphics;
+```
+
